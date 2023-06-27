@@ -1,0 +1,15 @@
+  My Restaurant-----------------------------------
+--------Customer#1-----------
+ Food Name     Preis    Anzahl
+      Kola       3.0         1
+      Kola       3.0         1
+-----------------------------------
+Your total bill amount is $6.0
+>----------------------------------->
+  My Restaurant-----------------------------------
+--------Customer#2-----------
+ Food Name     Preis    Anzahl
+      Bier       3.0         1
+-----------------------------------
+Your total bill amount is $3.0
+>----------------------------------->
